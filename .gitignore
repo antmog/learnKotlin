@@ -1,0 +1,5 @@
+#
+.idea/*
+out/
+libraries/tools/kotlin-test-js-runner/lib/
+outTmp/
